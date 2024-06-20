@@ -1,4 +1,4 @@
-<pre>
+```
   <?php
     // error_reporting(0);
 
@@ -79,6 +79,6 @@
 
     </footer>
 </html>
-</pre>
+```
 
 Đoạn code trên không có hàm để check file extension nên người dùng có thể up file bất kỳ lên, kể cả file PHP và chiếm quyền điều khiển.
